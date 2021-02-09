@@ -1,9 +1,6 @@
 # Readme: Manual
 
-This repo holds the supplementary code for the arXiv submission *Tree Boosted Varying Coefficient Models*
-
-https://arxiv.org/abs/1904.01058
-
+This repo holds the supplementary code for the KDD submission Varying Linear Coefficients via Gradient Boosted Decision Trees.
 
 ## List of files in this repo:
 
